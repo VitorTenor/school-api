@@ -1,1 +1,1 @@
-# schoolAplication-api
+# School Application Api
