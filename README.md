@@ -1,3 +1,3 @@
 # School Application Api
 
-## SpringBoot Api
+-- SpringBoot Api
